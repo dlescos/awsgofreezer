@@ -22,4 +22,4 @@ Example:
 ./awsgofreezer -archive ./testfile.dat -vaultname testvault
 
 
-Binaries for linux and windows are available in bin/. They are compiled with -ldflags="-s -w" option and compressed with upx.
+Binaries for linux and windows are compiled with -ldflags="-s -w" option and compressed with upx.
